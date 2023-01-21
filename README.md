@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-3e34a05a79.gif" title="Video Walkthrough" width='' alt='Video Walkthrough'/>
+<img src="https://im4.ezgif.com/tmp/ezgif-4-ee32195de1.gif" title="Video Walkthrough" width='' alt='Video Walkthrough'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
